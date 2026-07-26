@@ -1,12 +1,12 @@
-# FAMamba-LSTMConvSR
+# FAHRNet
 
-Official Kaggle notebook implementation of **FAMamba-LSTMConvSR**, a
-frequency-aware hybrid refocusing framework for ×4 remote sensing image
+Official Kaggle notebook implementation of **FAHRNet**, a
+frequency-aware hybrid refocusing network for ×4 remote sensing image
 super-resolution.
 
 ## Paper
 
-**Frequency-Aware Hybrid Refocusing for Remote Sensing Image Super-Resolution**
+**Frequency-Aware Hybrid Refocusing Network for Remote Sensing Image Super-Resolution**
 
 Md Khalid Hasan Sakib, Dristi Datta, and Manoranjan Paul.
 
@@ -14,7 +14,8 @@ Paper status: Under review.
 
 ## Overview
 
-FAMamba-LSTMConvSR integrates:
+
+FAHRNet integrates:
 
 - Vision-LSTM-inspired contextual guidance
 - Mamba-inspired row-column sequence mixing
