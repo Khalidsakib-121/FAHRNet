@@ -6,7 +6,7 @@ super-resolution.
 
 ## Paper
 
-**Frequency-Aware Hybrid Refocusing Network for Remote Sensing Image Super-Resolution**
+**FAHRNet: Frequency-Aware Hybrid Refocusing Network for Remote Sensing Image Super-Resolution**
 
 Md Khalid Hasan Sakib, Dristi Datta, and Manoranjan Paul.
 
